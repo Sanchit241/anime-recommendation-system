@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+rating.csv
+__pycache__/
+*.pyc
+.streamlit/
